@@ -1,5 +1,5 @@
 
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Nabin%20Dhungana&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Network%20Engineer%20%7C%20System%20Administrator%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58" width="100%" />
