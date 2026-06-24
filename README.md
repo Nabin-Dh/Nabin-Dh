@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Network and System Administration enthusiast focused on enterprise networking, Linux administration, virtualization, cybersecurity, and cloud technologies. Interested in designing secure, scalable, and reliable IT infrastructure.
 
 
@@ -15,6 +15,5 @@ Network and System Administration enthusiast focused on enterprise networking, L
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nabin-Dh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Nabin-Dh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
